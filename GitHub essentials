@@ -1,0 +1,27 @@
+Git add- to track
+Git diff- exact changes made
+Git commit -m (message)-to add version message in file 
+Git log
+Git reset - -hard ‘previous version from gitlog’
+
+Git init{ will create a .git which will track files
+Git push[ put changes in git repo]
+Git clone “location”
+Remote reference- git remote -v
+git remote add
+ Create new branch: Git checkout -b “branch name”
+Git merge: 
+Git cherry-pick: to merge from one branch to another
+Git rebase:
+Git log - - online
+
+Git fork- to copy the repo
+Git clone- to download repo
+
+Git status
+Git branching strategy[ 
+- Master branch is for active development
+- Create feature branch and integrate the with the master , once everything is merged, fixes and tested to satisfaction then, 
+- Release branch to be released to the customer
+- Hot fix branch will go to both master and release branch because master/main should always be kept upto date{
+Just gets releases on time
